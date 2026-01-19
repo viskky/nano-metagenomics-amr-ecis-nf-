@@ -92,8 +92,9 @@ Abricate
 
 ## Usage
 ```
-nextflow run main.nf --reads <path/*fastq> --hmm <path/*hmm> -profile standard
+nextflow run main.nf --reads <path/*fastq> --hmm <path/*hmm> --kraken2 <path to kraken database/> -profile standard
 ```
 # nano-metagenomics-amr-ecis-nf-
+
 
 
