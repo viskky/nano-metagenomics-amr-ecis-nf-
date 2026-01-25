@@ -76,7 +76,7 @@ HMMSEARCH
  ↓
 Kraken2
  ↓
-Abricate
+Abricate 
 
 
 ## Required Input
@@ -95,6 +95,7 @@ Abricate
 nextflow run main.nf --reads <path/*fastq> --hmm <path/*hmm> --kraken2 <path to kraken database/> -profile standard
 ```
 # nano-metagenomics-amr-ecis-nf-
+
 
 
 
